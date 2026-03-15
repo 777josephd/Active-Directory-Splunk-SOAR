@@ -241,7 +241,7 @@ Telemetry from each host should now populate within the Splunk SIEM web GUI.
 
 ### Linux Remmina
 
-On the Linux Mint VM I used for configuration and SSH, I installed and configured the Remmina service to enable RDP capabilities. Since the RDP connection is going from a Linux machine to a Windows machine, the installation process is as follows:
+On the Linux Mint VM used for configuration and SSH, install and configure the Remmina service to enable RDP capabilities. Since the RDP connection is going from a Linux machine to a Windows machine, the installation process is as follows:
 ```
 sudo apt install remmina remmina-plugin-rdp -y
 ```
