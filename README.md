@@ -254,7 +254,7 @@ After installation, launch:
 The first connection profile:
 ```
 Protocol: RDP
-Server: 10.0.10.10
+Server: 10[.]0[.]10[.]10
 Username: Administrator
 Password: <password>
 ```
@@ -262,7 +262,7 @@ Password: <password>
 The second connection profile
 ```
 Protocol: RDP
-Server: 10.0.10.103
+Server: 10[.]0[.]10[.]103
 Username: aadamson
 Password: <password>
 ```
@@ -316,7 +316,7 @@ This node requires authentication from an active Slack account, along with a val
 On the Slack site, `api[.]slack[.]com/apps`, select `Create New App>From Scratch` and configure:
 ```
 App Name: Splunk-Alerts
-Workspace: JAD-LABs
+Workspace: JAD-LABS
 ```
 
 Then, enable bot permissions in the `Features>OAuth & Permissions>Bot Token Scopes` section:
