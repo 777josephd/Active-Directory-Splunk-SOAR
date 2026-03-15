@@ -12,6 +12,8 @@ The objective of this lab is to emulate an enterprise Active Directory environme
      - [Linux Remmina](#linux-remmina)
 3. [Detection Engineering](#detection-engineering)
 4. [Shuffle SOAR Integration](#shuffle-soar-integration)
+   - [Webhook Splunk Alert 1](#webhook-splunk-alert-1)
+   - [Slack App Alert Notification](#slack-app-alert-notification)
 5. [Troubleshooting and Lessons Learned](#troubleshooting-and-lessons-learned)
    - [NTP Time Synchronization](#ntp-time-synchronization)
    - [Slack Channel Output Errors](#slack-channel-output-errors)
